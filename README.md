@@ -2,10 +2,10 @@
 
 
 ## Project Summery
-This project contains browser-based acceptance tests for GitHub using the Cucumber framework. The tests are designed to validate specific acceptance criteria for GitHub's landing page when accessed by guests (not logged in). The key features that will be tested are:
+This project contains browser-based acceptance tests for GitHub using the Cucumber framework. The tests are designed to validate specific acceptance criteria for GitHub's landing page when accessed by guests (not logged in)
 
 ## frameWork
-- cucumber
+- Cucumber
 - Cucumber Junit
 - Selenium
  
