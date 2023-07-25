@@ -21,7 +21,10 @@ The following terms should be passed from the Example,
 1. create-react-app
 2. facebook/create-create-app
 
-
+## How to run the project
+- git ``clone``
+- In testRunner file add ``@RunWith(Cucumber.class)``
+- hit run
 
 ## Cucumber Report
 
